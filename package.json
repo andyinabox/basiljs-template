@@ -1,6 +1,6 @@
 {
   "name": "basiljs-template",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple template for a basil.js project",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
   "license": "ISC",
   "dependencies": {
     "basiljs": "basiljs/basil.js"
-  }
-  "repository" {
+  },
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/andyinabox/basiljs-template.git"
   }
