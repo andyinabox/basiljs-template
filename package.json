@@ -1,10 +1,9 @@
 {
-  "name": "helen-book",
+  "name": "basiljs-template",
   "version": "0.0.1",
-  "description": "A portrait",
+  "description": "A simple template for a basil.js project",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
   },
   "author": "Andy Dayton <amdayton@gmail.com> (http://andydayton.com/)",
   "license": "ISC",
