@@ -11,11 +11,11 @@ A simple template for a [basil.js](http://basiljs.ch/) project using npm.
 
 ## Setup
 
-If you're using [yarn](https://yarnpkg.com/) you can run
+If you're using [yarn](https://yarnpkg.com/)
 
 `yarn install`
 
-Otherwise:
+otherwise
 
 `npm install`
 
@@ -28,3 +28,8 @@ To open the default doc:
 `npm run open`
 
 Now you can open `index.jsx` and run using ExtendScript Toolkit.
+
+# Wishlist
+
+ - Run from command-line (using Apple Script?)
+ - Convert to a project generator?

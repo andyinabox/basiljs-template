@@ -1,6 +1,6 @@
 {
   "name": "basiljs-template",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A simple template for a basil.js project",
   "main": "index.js",
   "scripts": {
