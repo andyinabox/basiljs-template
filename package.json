@@ -4,11 +4,13 @@
   "description": "A simple template for a basil.js project",
   "main": "index.js",
   "scripts": {
+    "start": "osascript scripts/run.scpt $PWD/index.jsx \"CC 2017\""
   },
   "author": "Andy Dayton <amdayton@gmail.com> (http://andydayton.com/)",
   "license": "ISC",
   "dependencies": {
-    "basiljs": "basiljs/basil.js"
+    "basiljs": "basiljs/basil.js",
+    "extendscriptr": "andyinabox/extendscriptr#basiljs"
   },
   "repository": {
     "type": "git",
