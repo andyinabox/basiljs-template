@@ -29,7 +29,7 @@ To open the default doc:
 
 Now you can open `index.jsx` and run using ExtendScript Toolkit.
 
-# Wishlist
+## Wishlist
 
  - Run from command-line (using Apple Script?)
  - Convert to a project generator?
